@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 sửa laanf 1
+=======
+chua sua
+>>>>>>> 4fb7b2efbde86e2eedf19762515fd5eae91ba3cf
 
